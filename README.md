@@ -1,6 +1,6 @@
 # About
 
-This is a fork of [Prabhatsharma's Kubernetes The Hard Way on AWS](https://github.com/prabhatsharma/kubernetes-the-hard-way-aws), which is a fork of the awesome [Kelsey's Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) and is geared towards using it on AWS, and I made some changes for utilising Spot Instances for the Controllers and Worker nodes. 
+This is a fork of [Prabhatsharma's Kubernetes The Hard Way on AWS](https://github.com/prabhatsharma/kubernetes-the-hard-way-aws), which is also a fork of the awesome [Kelsey's Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) and is geared towards using it on AWS, and I made some changes for utilising Spot Instances for the Controllers and Worker nodes. 
 
 # Kubernetes The Hard Way
 
