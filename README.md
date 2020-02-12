@@ -1,15 +1,6 @@
 # About
 
-This is a fork of awesome [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) by Kelsey Hightower and is geared towards using it on AWS. Also thanks to [@slawekzachcial](https://github.com/slawekzachcial) for his [work](https://github.com/slawekzachcial/kubernetes-the-hard-way-aws) that made this easier. I have made some changes along the way:
-
-1. Provided an alternative to busybox for testing DNS resolution. This fixes [issue#356](https://github.com/kelseyhightower/kubernetes-the-hard-way/issues/356)
-2. Upgraded kubernetes to v1.11.2
-3. Upgraded cri-tools to v1.11.1
-4. Upgraded containerd to v1.2.0-beta.2
-5. Upgraded CNI plugins to v0.7.1
-6. Upgraded etcd to 3.3.9
-7. Added section on critools
-8. Upgraded kubernetes to v1.13.4
+This is a fork of [Prabhatsharma's Kubernetes The Hard Way on AWS](https://github.com/prabhatsharma/kubernetes-the-hard-way-aws), which is a fork of the awesome [Kelsey's Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) and is geared towards using it on AWS, and I made some changes for utilising Spot Instances for the Controllers and Worker nodes. 
 
 # Kubernetes The Hard Way
 
